@@ -16,5 +16,5 @@ Le site est destiné à des utilisateurs de tout âge intéressés par le partag
 Pour installer le projet, clonez le dépôt et installez les dépendances nécessaires.
 
 ```bash
-git clone https://github.com/votre-nom-utilisateur/forum-partage-experiences.git
+git clone https://github.com/BouoniManar/forum-partage-experiences.git
 cd forum-partage-experiences
